@@ -1,0 +1,5 @@
+{
+  "name": "AquaAudit.net",
+  "description": "National Tap Water Quality Database providing instant safety reports, EPA compliance checks, and health-based contaminant analysis.",
+  "requestFramePermissions": ["geolocation", "microphone"]
+}
